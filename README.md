@@ -1,7 +1,11 @@
 # TCS_iON_internship
 Name Of The Student: Aswin Manoj
+
 Internship Project Topic: Set up docker container for application development using blockchain network and deploy it on AWS Cloud.
+
 Name of the Organization: TCS iON
+
+Name of the Industry mentor : Debashish Roy.
 
 
 1.	Firstly, we create AWS account (Free Tier) with the Amazon Linux EC2 instance. From that we get the host name and which is used to login to base OS as ubuntu using putty.
